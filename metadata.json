@@ -1,0 +1,6 @@
+{
+  "name": "Mobile Java Compiler",
+  "description": "An offline, mobile-friendly Java code companion and compiler with intelligent quick-access keyboard toolbar, prebuilt learning templates, and interactive running console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
